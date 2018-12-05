@@ -5,8 +5,8 @@ tagline: Leave us some thoughts
 ---
 
 <form method="POST" action="https://formspree.io/goodfellasSDSU@gmail.com">
-  <input type="email" name="email" placeholder="Your email"></br>
-  <textarea name="message" placeholder="Test Message"></textarea></br>
+  <br><input type="email" name="email" placeholder="Your email"></br>
+  <br><textarea name="message" placeholder="Test Message"></textarea></br>
   <button type="submit">Send Test</button>
 </form>
 
