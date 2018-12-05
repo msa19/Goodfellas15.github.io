@@ -5,8 +5,8 @@ tagline: Our Team's Members
 permalink: /about.html
 ---
 
-Name | Role | Pic
---- | --- | ---
+Name | Role | Pic | Website
+--- | --- | --- |  --- |
 Mark Ewest | Communication |
 Mayra Pulido | Communication |
 Ernesto Rodriguez | Power

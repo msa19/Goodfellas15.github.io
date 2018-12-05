@@ -7,8 +7,10 @@
 #
 layout: home
 ---
+<center><img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of speed-e" style="max-width:20%;"/></center>
 
-# Speed-e
+<h1 align="center"> Speed-e: Speeding up, Saving Lives </h1>
+
 ## Our Purpose:
 
 * Quick-E (Emergency) provides emergency responders with the fastest and shortest route to the scene
@@ -22,6 +24,7 @@ layout: home
 
 ## Communication
 ### Network
+
 ### Antenna Research
 
 ## Sensor
