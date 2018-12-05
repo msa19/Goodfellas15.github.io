@@ -1,4 +1,4 @@
-# How to edit
+# How to edit this website
 1. All information is in the index.md file
 2. md is markdown file. Jerkyll is going to convert markdown into html for us
 3. Markdown is good to learn because many people write documentation using markdown and LaTex (for formulas)
