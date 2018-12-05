@@ -5,7 +5,7 @@ tagline: Our Team's Members
 permalink: /about.html
 ---
 
-Name | Role | 
+Name | Role | Pic
 --- | --- | ---
 Mark Ewest | Communication |
 Mayra Pulido | Communication |
