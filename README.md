@@ -5,6 +5,7 @@
 4. In the index file you can use both *HTML* and *md*
 5. Each person is in-charge of their own part, because I want everyone has chance to learn.
 6. This is [a quick reference of MD from github](https://guides.github.com/features/mastering-markdown/), and [mother of HTML](https://www.w3schools.com/)
+7. Enjoy and have fun editting!
 
 # The author of this template provide extra configuration below.
 
