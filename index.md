@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-
+<img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of speed-e" style="max-width:30%; border: 1px solid grey;"/>
 # Speed-e
 ## Our Purpose:
 
