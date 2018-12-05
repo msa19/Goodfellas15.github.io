@@ -7,9 +7,9 @@
 #
 layout: home
 ---
-<img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of speed-e" style="max-width:20%; border: 1px solid grey;"/>
 
-# Speed-e
+# Speed-e <img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of speed-e" style="max-width:20%;"/>
+
 ## Our Purpose:
 
 * Quick-E (Emergency) provides emergency responders with the fastest and shortest route to the scene
