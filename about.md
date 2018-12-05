@@ -15,10 +15,5 @@ Christian Rizzo | Communication
 Adam Cruz | Power, Sensor |
 Mahrlo Amposta | Sensor |
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
