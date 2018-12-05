@@ -1,3 +1,11 @@
+# How to edit
+1. All information is in the index.md file
+2. md is markdown file. Jerkyll is going to convert markdown into html for us
+3. Markdown is good to learn because many people write documentation using markdown and LaTex (for formulas)
+4. In the index file you can use both *HTML* and *md*
+
+
+
 
 ### Configuration variables
 
@@ -15,24 +23,6 @@ show_downloads: ["true" or "false" to indicate whether to provide a download URL
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
-### RSS feeds
-
-To enable RSS feeds and also make visible an RSS feeds button in the footer, the [Jekyll Feed plugin](https://github.com/jekyll/jekyll-feed) must be installed.
-
-Add this line to your site's Gemfile:
-
-```ruby
-gem 'jekyll-feed'
-```
-
-And then add this line to your site's `_config.yml`:
-
-```yml
-gems:
-  - jekyll-feed
-```
-
-For more information about configuring this plugin, see the official [Jekyll Feed plugin](https://github.com/jekyll/jekyll-feed) page.
 
 ### SEO tags
 
@@ -100,14 +90,6 @@ $section-headings-color: #0086b3;
 ## Roadmap
 
 See the [open issues](https://github.com/lorepirri/cayman-blog/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Cayman Blog theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Cayman Blog? We'd love your help. Cayman Blog is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](CONTRIBUTING.md) for instructions on how to contribute.
 
 ### Previewing the theme locally
 
