@@ -37,7 +37,8 @@ Microcontroller to be used within each device. User friendly and compatible with
 ### RFM95 915 MHz LoRa Transceiver
 Low cost transceiver operating at 915 MHz that provides long range transmission and low current draw
 * Operating Voltage: 3 V
-* TX Current: 10 mA | RX Current: 10.3 mA
+* TX Current: 10 mA 
+* RX Current: 10.3 mA
 
 ## Expected Baterry Life
   
@@ -47,15 +48,17 @@ Sleep Mode | 0.0003 | 22.3
 On (Not Peak) | 19 | 0.3
 Transmit | 30 | 1.4
 Average Current | 0.272 mA
- 
+
+
 Capacity | Days | Years
 --- | --- | ---
 10,000 mAh | 1530.82 | 4.19
 
 ## Communication
 ### Network
-
+* We use LoRaWAN
+<img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/network50.png" alt="logo of speed-e" />
 ### Antenna Research
-
+* We use antenna from Taoglas
 
 ## Budget
