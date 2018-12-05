@@ -8,10 +8,23 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+#Speed-e
+##Our Purpose
+*Quick-E (Emergency) provides emergency responders with the fastest and shortest route to the scene
+*Optimal route obtained by continuously monitoring density of vehicles on the road
+*Helps prevent death, fire spreading, an ongoing criminal activity from escalating
+*Minimizes the possibility of vehicle collisions with emergency responders
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+##Design Concept
 
-Have a look at the Github page for more information.
+##Block Diagram
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+##Communication
+###Network
+###Antenna Research
+
+##Sensor
+
+##Power Solution
+
+##Budget
