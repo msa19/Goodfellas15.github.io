@@ -4,9 +4,7 @@
 3. Markdown is good to learn because many people write documentation using markdown and LaTex (for formulas)
 4. In the index file you can use both *HTML* and *md*
 5. Each person is in-charge of their own part, because I want everyone has chance to learn.
-6. This is [a quick reference of MD from WordPress](1), and [mother of HTML](2)
-(1): https://en.support.wordpress.com/markdown-quick-reference/ "Title"
-(2): https://www.w3schools.com/ "Title"
+6. This is [a quick reference of MD from WordPress](https://en.support.wordpress.com/markdown-quick-reference/), and [mother of HTML](https://www.w3schools.com/)
 
 # The author of this template provide extra configuration below.
 
