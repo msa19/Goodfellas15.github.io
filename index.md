@@ -8,23 +8,24 @@
 layout: home
 ---
 
-#Speed-e
-##Our Purpose
-*Quick-E (Emergency) provides emergency responders with the fastest and shortest route to the scene
-*Optimal route obtained by continuously monitoring density of vehicles on the road
-*Helps prevent death, fire spreading, an ongoing criminal activity from escalating
-*Minimizes the possibility of vehicle collisions with emergency responders
+# Speed-e
+## Our Purpose:
 
-##Design Concept
+* Quick-E (Emergency) provides emergency responders with the fastest and shortest route to the scene
+* Optimal route obtained by continuously monitoring density of vehicles on the road
+* Helps prevent death, fire spreading, an ongoing criminal activity from escalating
+* Minimizes the possibility of vehicle collisions with emergency responders
 
-##Block Diagram
+## Design Concept
 
-##Communication
-###Network
-###Antenna Research
+## Block Diagram
 
-##Sensor
+## Communication
+### Network
+### Antenna Research
 
-##Power Solution
+## Sensor
 
-##Budget
+## Power Solution
+
+## Budget
