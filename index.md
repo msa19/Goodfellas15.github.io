@@ -60,5 +60,10 @@ Capacity | Days | Years
 <img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/network50.png" alt="logo of speed-e" />
 ### Antenna Research
 * We use antenna from Taoglas
+<img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/testingAntenna50.png" alt="antenna"/>
 
+* __First image (from left to right):__  Construct mock up board with ground plane that would simulate circuit ground plane with dimensions similar to road mark housing.
+* __Second image:__  Potential antenna with ISM capabilities.
+* __Third image:__  Test for signal loss due to reflections from the transmission line.
+* __Fourth image:__  Test in anechoic chamber for efficiency and peak gain.
 ## Budget
