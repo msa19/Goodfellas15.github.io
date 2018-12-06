@@ -56,7 +56,7 @@ Capacity | Days | Years
 
 ## Communication
 ### Network
-* We use LoRaWAN
+* We use LoRaWAN: because it can be scaled, transmit long distance. Also, LoRa has low power consumption, so it can run on battery in rural area or on the road.
 <img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/network50.png" alt="logo of speed-e" />
 ### Antenna Research
 * We use antenna from Taoglas
