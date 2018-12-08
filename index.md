@@ -7,9 +7,9 @@
 #
 layout: home
 ---
-<center><img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of speed-e" style="max-width:40%;"/></center>
+<center><img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of Speed-E" style="max-width:40%;"/></center>
 
-<h1 align="center"> Speed-e: Speeding up, Saving Lives </h1>
+<h1 align="center"> Speed-E: Speeding up, Saving Lives </h1>
 
 ## Background:
 The first hour after a traumatic injury, aka ‘The Golden Hour’, is considered the most critical time frame for successful treatment. Optimal routing obtained by continuously monitoring traffic conditions is necessary to reduce the transition between the initial call, response to an emergency, and the transit to the location of the incident.
